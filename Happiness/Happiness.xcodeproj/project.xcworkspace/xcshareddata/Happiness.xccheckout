@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A8A17ADD-7442-41C1-B143-72865ADD73D3</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Happiness</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B1EBF369C1177B01ED0966A2FFAA4F69CFA09E35</key>
 		<string>https://github.com/tranhuanltv/Swift_IOS8_CS193P.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Happiness/Happiness.xcodeproj/project.xcworkspace</string>
+	<string>Happiness/Happiness.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B1EBF369C1177B01ED0966A2FFAA4F69CFA09E35</key>
